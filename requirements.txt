@@ -1,0 +1,5 @@
+#Fue una recomendacion que me dio Claude y la verdad que me gusto mucho.
+pandas
+matplotlib
+seaborn
+openpyxl
